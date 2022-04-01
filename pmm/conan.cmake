@@ -1,4 +1,4 @@
-pmm_option(PMM_CONAN_MIN_VERSION           1.40.4)
+pmm_option(PMM_CONAN_MIN_VERSION           1.46.0)
 pmm_option(PMM_CONAN_MAX_VERSION           1.99999.0)
 pmm_option(PMM_CONAN_WANT_VERSION          "${PMM_CONAN_MIN_VERSION}")
 pmm_option(PMM_CONAN_PIP_INSTALL_ARGS      "conan==${PMM_CONAN_WANT_VERSION}")
