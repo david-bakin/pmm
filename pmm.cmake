@@ -57,7 +57,7 @@
   before include()-ing this file. You can change this version here to update
   the version of PMM that is used by your project: ]]
 
-  set(PMM_VERSION_INIT "2.0.0")
+  set(PMM_VERSION_INIT "2.0.1")
 
   # (See the README below for more information)
 #
@@ -173,7 +173,7 @@
 
     ]]
 
-    pmm_option(PMM_URL_BASE "https://vector-of-bool.github.io/pmm")
+    pmm_option(PMM_URL_BASE "https://github.com/david-bakin/pmm")
 
   #[[ PMM_URL
 
